@@ -9,10 +9,10 @@ This is so cool!!
 
 - 🔭 I’m currently working on a e-card app with friends in the UK and India.
 - 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with backend, specifically MongoDB
 - 👯 I’m looking to collaborate on React
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about React
+- 💬 Ask me about Debugging
 - 📫 How to reach me: moking929 at gmail dot com
-- 😄 Pronouns: f34f8j3f983j4984
+- 😄 Pronouns: he, him, his
 - ⚡ Fun fact: The US has the oldest government, and it's one of the youngest countries in the world.
 
