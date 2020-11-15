@@ -14,5 +14,5 @@ This is so cool!!
 - 💬 Ask me about React
 - 📫 How to reach me: moking929 at gmail dot com
 - 😄 Pronouns: f34f8j3f983j4984
-- ⚡ Fun fact: The US has the oldest government one of the youngest countries in the world.
+- ⚡ Fun fact: The US has the oldest government, and it's one of the youngest countries in the world.
 
