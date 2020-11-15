@@ -13,6 +13,6 @@ This is so cool!!
 - 👯 I’m looking to collaborate on React
 - 💬 Ask me about Debugging
 - 📫 How to reach me: moking929 at gmail dot com
-- 😄 Pronouns: he, him, his
+- 😄 Hobbies: hiking and games with my kids
 - ⚡ Fun fact: The US has the oldest government, and it's one of the youngest countries in the world.
 
