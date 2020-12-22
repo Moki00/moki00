@@ -5,12 +5,11 @@
 -->
 
 
-This is so cool!!
+I inadvertently created this, and I love it!
 
 - 🔭 I’m currently working on a e-card app with friends in the UK and India.
-- 🌱 I’m currently learning Java and playing Screeps
-- 🤔 I’m looking for help with backend, specifically MongoDB
-- 👯 I’m looking to collaborate on React
+- 🌱 Sometimes I play Screeps; tell me if you want to study the code together.
+- 👯 I’m looking to collaborate on making a study game.
 - 💬 日本語でも良いです。 Communication in Japanese is good too.
 - 📫 How to reach me: moking929 at gmail dot com
 - 😄 Hobbies: hiking and games with my kids
