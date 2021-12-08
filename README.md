@@ -7,11 +7,11 @@
 
 I inadvertently created this readme, and I love it!
 
-- 🔭 I'm learning so much!
+- 🔭 I'm learning Terraform and Go Lang at work.
 - 🍂 Paused the e-card app with friends in the UK and India.
-- 🌱 I play coding games daily; tell me if you want to try some puzzles together.
+- 🌱 I play coding games sometimes; tell me if you want to try some puzzles together.
 - 👯 I’m looking to collaborate on making a study game.
 - 💬 日本語でも良いです。 Communication in Japanese is good too.
 - 📫 How to reach me: moking929 at gmail dot com
-- 😄 Hobbies: hiking and games with my kids
+- 😄 Hobbies: hiking, home renovation, gardening, and games with my kids
 
