@@ -11,7 +11,6 @@ I inadvertently created this readme, and I love it!
 - 🍂 Paused the e-card app with friends in the UK and India.
 - 🌱 I play coding games sometimes; tell me if you want to try some puzzles together.
 - 👯 I’m looking to collaborate on making a study game.
-- 💬 日本語でも良いです。 Communication in Japanese is good too.
+- 💬 日本語でも良いです。 We can communicate in Japanese if you like.
 - 📫 How to reach me: moking929 at gmail dot com
-- 😄 Hobbies: hiking, home renovation, gardening, and games with my kids
-
+- 😄 Hobbies: hiking, home renovation, gardening, and games with my friends and family
