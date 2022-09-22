@@ -1,4 +1,4 @@
-# Hi visitor 👋
+# Hi friend 👋
 ## I'm Moki
 
 - 🔭 I'm using GCP, Terraform and Go Lang at work.
