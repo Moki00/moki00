@@ -1,5 +1,5 @@
 # Hi friend 👋
-## I'm Moki (モーガンと申します)
+## I'm Moki
 
 - 🔭 I main Java and Angular. (some XP with JS and Golang)
 - 🍂 I loved making an E-card app with friends in the UK and India.
