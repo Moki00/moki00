@@ -7,7 +7,7 @@
 
 ## 🚀 Professional Profile
 
-I am a **Radio Coordinator** and the founder of **Gokame Local Tech Services**. I specialize in bridging the gap between complex networking infrastructure and cloud-native solutions.
+I the founder of **Gokame Tech Services**. I specialize in bridging the gap between complex networking infrastructure and cloud-native solutions.
 
 - 💻 **Current Stack:** Python (FastAPI), JavaScript, Java, Cloud (AWS, GCP, Azure).
 - 🛠️ **Hardware:** I enjoy building custom PC rigs, managing networks, and radio communication.
