@@ -3,21 +3,22 @@
 ![Network+ Certified](https://img.shields.io/badge/CompTIA-Network%2B-orange)
 ![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-blue)
 ![GCP Associate Cloud Engineer](https://img.shields.io/badge/Google_Cloud-ACE-green?logo=google-cloud&logoColor=white)
+![Amateur Radio](https://img.shields.io/badge/Radio-KR4HCX-pink?logo=radio&logoColor=white)
 
-### 🚀 Professional Profile
+## 🚀 Professional Profile
 
 I am a **Radio Coordinator** and the founder of **Gokame Local Tech Services**. I specialize in bridging the gap between complex networking infrastructure and cloud-native solutions.
 
-- 🔭 **Current Stack:** Python (FastAPI), JavaScript, Java, and Azure Cloud.
-- 🛠️ **Hardware:** I enjoy building custom PC rigs and managing ham radio equipment (KR4HCX).
-- 🤝 **Community:** Coaching youth soccer and volleyball, and helping new devs find their footing.
+- 💻 **Current Stack:** Python (FastAPI), JavaScript, Java, Cloud (AWS, GCP, Azure).
+- 🛠️ **Hardware:** I enjoy building custom PC rigs, managing networks, and radio communication.
+- 🤝 **Community:** Coach and referee youth soccer, and helping new devs find their footing.
 
 ### 🌍 International & Language
 
 - 💬 **日本語OK:** 日本に住んでいた経験があり、日本語でのコミュニケーションやプロジェクト管理も可能です。お気軽にご連絡ください！
-- 🍂 Experienced in collaborating with cross-functional teams in the UK, India, and Japan.
+- 🌎 Experienced in collaborating with cross-functional teams in the UK, India, and Japan.
 
-### 📊 My Coding Activity (via WakaTime)
+### 📊 My Recent Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -35,5 +36,8 @@ Markdown     38 mins         █▒░░░░░░░░░░░░░░░
 
 ### 📫 Let's Connect
 
-- **Email:** javatimedev@gmail.com
-- **Location:** Pendergrass, GA
+- 🌐 **Business:** [gokame.com](https://gokame.com)
+- ✉ **Email:** javatimedev@gmail.com
+- ☕ **Location:** Pendergrass, GA
+
+![Visitors](https://komarev.com/ghpvc/?username=Moki00&color=blue&style=flat-square)
