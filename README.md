@@ -19,7 +19,8 @@ I am a **Radio Coordinator** and the founder of **Gokame Local Tech Services**. 
 
 ### 📊 My Coding Activity (via WakaTime)
 
-[Insert WakaTime Graph Here]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📫 Let's Connect
 
