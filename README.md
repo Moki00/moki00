@@ -23,13 +23,13 @@ I the founder of **Gokame Tech Services**. I specialize in bridging the gap betw
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2026 - To: 25 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Terraform    1 hr 19 mins          █████████████▓░░░░░░░░░░░   55.21 %
-Python       53 mins               █████████▒░░░░░░░░░░░░░░░   37.20 %
-Bash         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Markdown     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Terraform    1 hr 12 mins          ████████████▒░░░░░░░░░░░░   48.78 %
+Python       53 mins               █████████░░░░░░░░░░░░░░░░   35.78 %
+JSON         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Bash         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
