@@ -23,13 +23,13 @@ I the founder of **Gokame Tech Services**. I specialize in bridging the gap betw
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-CSS          1 hr 22 mins          █████████████░░░░░░░░░░░░   51.40 %
-HTML         59 mins               █████████▒░░░░░░░░░░░░░░░   36.95 %
-Markdown     6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-XML          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+CSS          1 hr 22 mins          ████████▓░░░░░░░░░░░░░░░░   35.25 %
+HTML         1 hr 11 mins          ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+JavaScript   47 mins               █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Python       16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Markdown     6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
