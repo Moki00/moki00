@@ -22,6 +22,18 @@ I am the founder of **Gokame Tech Support**. I specialize in bridging the gap be
 | **Agentic AI & Tooling** | Developing autonomous workflow agents and integrations using modern agent frameworks. | Python, FastAPI, APIs |
 | **Home Lab & Networking** | Segmented enterprise testing environment for network monitoring and bare-metal virtualization. | Proxmox, UniFi, Linux |
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moki00&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+### 📊 GitHub Activity2
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moki00&show_icons=true&theme=radical&hide_border=true" alt="Moki's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moki00&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ### 🌍 International & Language
 
 - 💬 **日本語OK:** 日本での在住・勤務経験があり、日本語でのコミュニケーションや技術サポートも対応可能です。お気軽にご連絡ください！
