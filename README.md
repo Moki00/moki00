@@ -26,6 +26,7 @@ I am the founder of **Gokame Tech Support**. I specialize in bridging the gap be
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moki00&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moki00&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 🌍 International & Language
