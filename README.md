@@ -1,29 +1,32 @@
 # Hi friend 👋 I'm Moki (Morgan King)
 
-![Network+ Certified](https://img.shields.io/badge/CompTIA-Network%2B-orange)
-![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-blue)
-![GCP Associate Cloud Engineer](https://img.shields.io/badge/Google_Cloud-ACE-green?logo=google-cloud&logoColor=white)
-![Amateur Radio](https://img.shields.io/badge/Radio-KR4HCX-pink?logo=radio&logoColor=white)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-orange?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
+[![GCP Associate Cloud Engineer](https://img.shields.io/badge/Google_Cloud-ACE-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+![Ham Radio KR4HCX](https://img.shields.io/badge/Radio-KR4HCX-informational?style=flat-square&logo=soundcharts&logoColor=white)
 
 ## 🚀 Professional Profile
 
-I the founder of **Gokame Tech Services**. I specialize in bridging the gap between complex networking infrastructure and cloud-native solutions.
+I am the founder of **Gokame Tech Support**. I specialize in bridging the gap between physical networking infrastructure and cloud architecture.
 
-- 💻 **Current Stack:** Python (FastAPI), JavaScript, Java, Cloud (AWS, GCP, Azure).
-- 🛠️ **Hardware:** I enjoy building custom PC rigs, managing networks, and radio communication.
-- 🤝 **Community:** Coach and referee youth soccer, and helping new devs find their footing.
+- 💻 **Tech Stack:** Python (FastAPI), JavaScript, Java, Cloud (AWS, GCP, Azure), Terraform, and Docker.
+- 🛠️ **Systems & Hardware:** Core networking, virtualization labs, custom PC hardware, and radio systems.
+- 🤝 **Community:** Referee youth soccer, and help aspiring tech pros find their footing.
 
 ### 🌍 International & Language
 
-- 💬 **日本語OK:** 日本に住んでいた経験があり、日本語でのコミュニケーションやプロジェクト管理も可能です。お気軽にご連絡ください！
-- 🌎 Experienced in collaborating with cross-functional teams in the UK, India, and Japan.
-
-<!--END_SECTION:waka-->
+- 💬 **日本語OK:** 日本での在住・勤務経験があり、日本語でのコミュニケーションや技術サポートも対応可能です。お気軽にご連絡ください！
+- 🌎 Seasoned in collaborating with cross-functional and global teams across the US, UK, and Japan.
 
 ### 📫 Let's Connect
 
-- 🌐 **Business:** [gokame.com](https://gokame.com)
-- ✉ **Email:** Support@Gokame.com
-- ☕ **Location:** Pendergrass, GA
+- 🌐 **Website:** [gokame.com](https://gokame.com)
+- ✉️ **Email:** [support@gokame.com](mailto:support@gokame.com)
+- 📍 **Location:** Pendergrass, GA
 
-![Visitors](https://komarev.com/ghpvc/?username=Moki00&color=blue&style=flat-square)
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Moki00&color=blue&style=flat-square" alt="Profile views" />
+</p>
