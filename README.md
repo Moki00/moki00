@@ -18,20 +18,6 @@ I the founder of **Gokame Tech Services**. I specialize in bridging the gap betw
 - 💬 **日本語OK:** 日本に住んでいた経験があり、日本語でのコミュニケーションやプロジェクト管理も可能です。お気軽にご連絡ください！
 - 🌎 Experienced in collaborating with cross-functional teams in the UK, India, and Japan.
 
-### 📊 My Recent Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-JavaScript   1 hr 51 mins          ██████████████████░░░░░░░   71.89 %
-Python       37 mins               ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-JSON         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-XML          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
 <!--END_SECTION:waka-->
 
 ### 📫 Let's Connect
